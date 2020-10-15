@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484680257 source:g:\c++ 1\thomas_algo\main.cpp
+	<iostream>
+	<math.h>
+

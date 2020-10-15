@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485360550 source:g:\c++ 1\gauss_seidel\main.cpp
+	<iostream>
+	<cmath>
+

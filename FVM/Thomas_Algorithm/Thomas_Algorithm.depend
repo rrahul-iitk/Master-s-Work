@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1484663837 source:g:\thomas_algorithm\main.cpp
+	<iostream>
+	<math.h>
+
+1484775726 source:g:\c++ 1\thomas_algorithm\main.cpp
+	<iostream>
+	<math.h>
+

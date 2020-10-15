@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490007372 source:g:\c++ 1\neumann\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+
